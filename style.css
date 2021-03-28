@@ -1,0 +1,40 @@
+html, body{
+    height: 100%;
+    /* width: 100%; */
+}
+
+body{
+    background-image: url("5.jpg");
+    height: 100%;
+    background-position: top;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+.bottom_bar{
+    margin-top: 4rem;
+    margin-left: 0rem;
+    color: white;
+}
+.text{
+    font-family: 'Chango', cursive;
+    font-size: 4rem;
+    color: limegreen;
+    text-align: center;
+    margin-top: 6rem;
+    margin-bottom: auto;
+}
+img{
+    margin-top: 2rem;
+    height: 600px;
+    width: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: auto;
+}
+section{
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
