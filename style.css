@@ -4,7 +4,7 @@ html, body{
 }
 
 body{
-    background-image: url("5.jpg");
+    background-image: url("images/5.jpg");
     height: 100%;
     background-position: top;
     background-repeat: no-repeat;
@@ -38,3 +38,8 @@ section{
     margin-bottom: 0px;
 }
 
+.btn-outline-dark{
+    background-color: #e7e7e7; 
+    color: black;
+    border: none;
+}
